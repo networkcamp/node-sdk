@@ -8,6 +8,13 @@ Official TypeScript SDK for the network.camp public API.
 npm install @networkcamp/sdk
 ```
 
+Open the node_modules/@networkcamp/sdk/ directory then build the package using:
+```sh
+npm run build
+```
+
+NOTE: The new 1.0.5 package is already pre-built
+
 ## Usage
 
 ```ts
